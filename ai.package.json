@@ -4,6 +4,7 @@
     "version":"1.8.4",
     "type":"lib",
     "contains":[
+      "fpdf/fpdf.php",
       "fpdf/FAQ.htm",
       "fpdf/changelog.htm",
       "fpdf/doc\/__construct.htm",
